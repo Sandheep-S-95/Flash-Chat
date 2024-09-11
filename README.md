@@ -22,7 +22,7 @@ Welcome to our cutting-edge mobile chat application, built with Flutter and Fire
 <img src="https://github.com/user-attachments/assets/6b209aa0-4a08-48bd-993f-3929631b58f6" alt="Register Screen" height="400" width="200"/>
 
 ### Chat Screen
-<img src="https://github.com/user-attachments/assets/51f2dd77-921c-4300-9bea-16e8e8a6b9e" alt="Chat Screen" height="400" width="200"/>
+<img src="https://github.com/user-attachments/assets/95e74efa-2e2d-49c9-af2e-56f6dcae7762" alt="Chat Screen" height="400" width="200"/>
 
 ## 🛠️ Technologies Used
 
