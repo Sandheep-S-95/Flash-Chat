@@ -13,17 +13,16 @@ Welcome to our cutting-edge mobile chat application, built with Flutter and Fire
 ## 📸 App Screenshots
 
 ### Home Screen
-<img src="https://github.com/user-attachments/assets/f4c8def8-46da-4e46-bdcf-fc80a2bc512d" alt="Home Screen" />
+<img src="https://github.com/user-attachments/assets/f4c8def8-46da-4e46-bdcf-fc80a2bc512d" alt="Home Screen" height="400" width="200"/>
 
 ### Login Screen
-<img src="https://github.com/user-attachments/assets/2ce6ee7d-2f2b-44df-aa65-8809f8c84308
-" alt="Login Screen" />
+<img src="https://github.com/user-attachments/assets/2ce6ee7d-2f2b-44df-aa65-8809f8c84308" alt="Login Screen" height="400" width="200"/>
 
 ### Register Screen
-<img src="https://github.com/user-attachments/assets/6b209aa0-4a08-48bd-993f-3929631b58f6" alt="Register Screen" />
+<img src="https://github.com/user-attachments/assets/6b209aa0-4a08-48bd-993f-3929631b58f6" alt="Register Screen" height="400" width="200"/>
 
 ### Chat Screen
-<img src="https://github.com/user-attachments/assets/51f2dd77-921c-4300-9bea-16e8e8a6b9e" alt="Chat Screen" />
+<img src="https://github.com/user-attachments/assets/51f2dd77-921c-4300-9bea-16e8e8a6b9e" alt="Chat Screen" height="400" width="200"/>
 
 ## 🛠️ Technologies Used
 
